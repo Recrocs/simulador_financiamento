@@ -1,18 +1,67 @@
-# simulador_financiamento
+# 💰 Simulador de Financiamento
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para realizar simulações de financiamento de forma simples e rápida.
 
-## Getting Started
+## 🛠️ Tecnologias
 
-This project is a starting point for a Flutter application.
+* Flutter
+* Dart
+* Shared Preferences
+* HTTP
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Informar os dados do financiamento
+* Realizar a simulação
+* Visualizar os resultados
+* Interface simples e prática
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# simulador_financiamento
+## 📸 Prints
+
+### Telas inicias
+
+![Tela inicial](Prints/1.png)
+![Tela inicial](Prints/2.png)
+![Tela inicial](Prints/3.png)
+
+### Simulação
+
+![Simulação](Prints/4.png)
+
+### Resultado
+
+![Resultado](Prints/5.png)
+
+## 🚀 Como executar
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Recrocs/simulador_financiamento.git
+```
+
+### 2. Entre na pasta
+
+```bash
+cd simulador_financiamento
+```
+
+### 3. Instale as dependências
+
+```bash
+flutter pub get
+```
+
+### 4. Execute o projeto
+
+```bash
+flutter run
+```
+
+Escolha um dispositivo ou emulador para executar o aplicativo.
+
+## 👨‍💻 Autor
+
+Luis Otávio
+
+[GitHub](https://github.com/Recrocs)
